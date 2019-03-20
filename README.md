@@ -1,1 +1,1 @@
-## 基于XML于配置的Spring MVC
+## 基于XML和java配置的Spring MVC
